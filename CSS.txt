@@ -1,0 +1,20 @@
+section-top {
+  background-color: brown;
+  height: 20px;
+}
+
+text {
+  display: inline-block !important;
+  vertical-align: top;
+  float: right;
+  color: #266126;
+}
+.container {
+  background-color: chocolate;
+  width: auto;
+  height: 50px;
+}
+focim {
+  color: aqua;
+  margin: 100px;
+}

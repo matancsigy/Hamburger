@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Static Template</title>
+<link rel="stylesheet" href="./css/style.css" />
+<div class="searchebox">
+    <div class="container">
+        <div class="row">
+            <div class="col-50 col-md-50">12</div>
+            <form action="/hu/kereses" method="GET"
+              </div>
+            </form>
+            <dív class="focim">
+            <h1> Hamburger</h1>  
+            <p> 2020 ben 27 éves a , az évek során sok változáson keresztül ment az éttermünk,1993-ben csak egy kis büfé jelleggel Mustafagyros névvel kezdtünk,családi vállalkozásként. Jöttek mentek az évek és a szezonok ,de mindig a szemünk előtt lebegett a cél, hogy egy nagy vendéglátó egység legyünk,nem is akár milyen!!! Kezdetben a keleti ízekkel foglalkoztunk, azon belül az arab íz világgal.
+            </p>
+            <button> tovább </button>
+       
+  </head>
+  <body>
+      <h2> Ízelítő ételeinkből </h2>
+      <h3>MOND EL A VÉLEMÉNYED RÓLUNK:</h3>
+      <h4> Kedves Étterem Vendégünk!! </h4>
+      <p> Véleménye fontos számunkra,kérjük ossza meg velünk.Amennyiben nem találja a szavakat, úgy segítünk.Használhatja például a …Nagyon finom, Kiváló, Fenomenális, Ilyen jót még sosem ettem, Mennyei, Kulináris mennyország, Csak ide járok, Fantasztikus, Király, Szuper, Elképesztően ízletes, Bazi Jó, Jóízű, Zamatos, Ízes, Ízletes, Pompás, Isteni, Kifogástalan, Fejedelmi, Elsőrendű, Kóser, Aromás, Ínycsiklandó, Pikáns, Remek, Príma,Fenséges, Fincsi,Ellenállhatatlan és az anyám sem süt ilyet….kifejezéseket. 
+      </p>
+      </div>
+    <div class="section-top"> 
+        <input type="hidden" name="_wpcf7" value="521">
+        <input type="hidden" name="_wpcf7_version" value="5.5.6.1">
+        <input type="hidden" name="_wpcf7_locale" value="hu_HU">
+        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f521-o1">
+        <input type="hidden" name="_wpcf7_container_post" value="0">
+        <input type="hidden" name="_wpcf7_posted_data_hash" value="">
+        <input type="hidden" name="_wpcf7_recaptcha_response" value="03AGdBq25icBfXXnzPiKDEbeCaCyv_fWBh4A_5u3sdGQlv30ew0rE-ILOsj746qGWboj6e8gB8CiWTMfrL-9144SYCKPorOCf9RXwY6eiqnnVNvszfLCSO7A0BrIRAUYfWzdYfJg-B7w0NeQIWTNerg4pF8diQ16YwZq-LDIXkK8XcCVuJw07SLEgbdYQJYhx7tGN5HgmZLdScn60cC7RJUFnWsIFrWyzN_laRPFKprEVaTWbeKyRg-6mn_p7KC_hIyLVyHoswsrkEG_Z5Mmtix7Pgxr4C6YxH4PoeuZcqYNzgwdDXVrE12GS17ruz5RF3oDKQ0kI2iMaLeWRfhUYhSYskcusFYM0rG_34BXt0dxNEBD7KlTE_oCoAdJ7JdJcW2v9uL4Izu3aoMTm1f3vYYQ7H9G95MakSM32SjDCLz53604CPFBlN3deTKFjWbRdBNM1sRG7xBrNXa4mCJndXqZyW7jbA5eGOMQ">
+        </div>
+        <p><label> Név (kötelező)<br>
+        <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+        <p><label> Email cím (kötelező)<br>
+        <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+        <p><label> Tárgy<br>
+        <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
+        <p><label> Üzenet<br>
+        <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+        <p><input type="submit" value="Küldés" class="wpcf7-form-control has-spinner wpcf7-submit"><span class="wpcf7-spinner"></span></p>
+        <p style="display: none !important;"><label>Δ<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="1654691216670"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                            </div>
+        
+      
+
+
+  </body>
+</html>
